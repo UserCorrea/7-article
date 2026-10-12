@@ -1,0 +1,25 @@
+html { background-color: rgb(187, 205, 221);
+font-family: "Crimson Pro", serif;
+
+}
+
+
+ul {margin: 0px;}
+
+.header-nav {
+    background-color: rgb(196, 126, 175);
+    padding: 10px;
+}
+.site-heading {
+    background-color: aqua;
+    padding: 10px;
+}
+
+.main-content {
+    background-color: blanchedalmond; 
+    padding: 10px;
+}
+.site-footer {
+
+    padding: 10px;
+}
