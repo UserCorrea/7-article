@@ -1,0 +1,64 @@
+html {
+    background-color: floralwhite;
+   
+    
+}
+
+a:link {
+    color:black
+}
+a:visited { color: rgb(96, 4, 4)}
+a:hover { color:chocolate}
+.wrapper {
+    max-width: 680px;
+    margin: 0 auto;
+    padding: 10px;
+  
+}
+
+.site-header { 
+    background-color: cornflowerblue;
+   padding: 10px;
+   margin-bottom: 10px;
+   
+
+
+}
+
+.header-nav { 
+    color: black;
+    padding: 10px;
+    margin-bottom: 10px;
+
+
+
+}
+
+.section-for-article {
+    background-color:rgb(255, 255, 98) ;
+    padding: 10px;
+  
+
+}
+.article-section {
+    background-color: rgb(255, 168, 63);
+    padding: 10px;
+    margin-bottom: 10px;
+    
+}
+
+.aside-section { 
+    background-color: lightpink;
+    color:purple;
+    padding: 10px;
+    margin-bottom: 10px;
+  margin-top: 10px;
+
+}
+
+
+.site-footer {
+    background-color: aquamarine;
+   padding: 10px;
+
+}
