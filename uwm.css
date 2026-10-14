@@ -56,6 +56,9 @@ a:hover { color:chocolate}
 
 }
 
+.by-line { border-top: 1px;
+color: black
+;}
 
 .site-footer {
     background-color: aquamarine;
